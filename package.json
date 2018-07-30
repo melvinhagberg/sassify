@@ -1,0 +1,18 @@
+{
+  "name": "sassify",
+  "main": "./lib/sassify",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "sassify:onPaste"
+  },
+  "repository": "https://github.com/melvinhagberg/sassify",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
