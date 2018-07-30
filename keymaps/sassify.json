@@ -1,0 +1,5 @@
+{
+  "atom-text-editor[data-grammar='source sass']": {
+    "cmd-v": "sassify:onPaste"
+  }
+}
